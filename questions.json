@@ -1,0 +1,19 @@
+[
+    {
+        "question": "What is the capital of India ?",
+        "choice1": "Delhi",
+        "choice2": "Mumbai",
+        "choice3": "Indore",
+        "choice4": "Kolkata",
+        "answer": 1
+
+    },
+    {
+        "question": "What is the economic capital of India ?",
+        "choice1": "Delhi",
+        "choice2": "Mumbai",
+        "choice3": "Indore",
+        "choice4": "Kolkata",
+        "answer": 2
+    }
+]
